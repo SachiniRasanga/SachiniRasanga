@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinirasanga" alt="sachinirasanga" /></a> </p>
 - 🌱 I’m currently learning **MERN STACK Development**
 
-- 📫 How to reach me **sachisach983@gmail.com**
+- 📫 How to reach me **sachinirasanga98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
